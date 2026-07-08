@@ -1,4 +1,6 @@
 ## What's New
+**2026.02.13 yolo26车牌检测识别[YOLO26-plate](https://github.com/we0091234/yolo26-plate)**
+
 
 **2022.12.04 车辆和车牌一起检测看这里[车辆系统](https://github.com/we0091234/Car_recognition)**
 
@@ -9,7 +11,9 @@
 [安卓NCNN](https://github.com/Ayers-github/Chinese-License-Plate-Recognition)
 
 ## 联系
-模型用的是公开数据集训练出来的，需要准确率更高的模型，或者商务合作请加
+**模型用的是公开数据集训练出来的，需要准确率更高的模型，或者商务合作请加V**
+
+**可代做学生毕设，以及课设大作业等**
 
 **wechat: we0091234  （注明来意）**
 
@@ -88,6 +92,5 @@ python onnx_infer.py --detect_model weights/plate_detect.onnx  --rec_model weigh
 * [https://github.com/Sierkinhane/CRNN_Chinese_Characters_Rec](https://github.com/Sierkinhane/CRNN_Chinese_Characters_Rec)
 
 ## More
-**qq群:871797331(已满) 837982567（二群） 询问**
+**qq群:769809695（三群新开）  871797331(已满) 837982567（二群已满） 询问**
 
-![Image ](image/README/105384078.png)
